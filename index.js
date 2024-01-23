@@ -5,4 +5,4 @@ class ReplyAgent {
 }
 
 
-module.exports = ReplyAgent;
+module.exports = { ReplyAgent };
